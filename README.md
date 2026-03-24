@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alizeh 👋
 
-<!--
-**alizehawan/alizehawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at FAST NUCES  
+💻 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- C, C++, Java, Python
+- HTML, CSS, JavaScript, React
+- Data Structures & OOP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Alphabet Catcher Game (Assembly)
+- Solitaire Game (C++)
+- Pharmacy Management System (React)
+- Travel Application (Python)
+
+## 📫 Contact Me
+- Email: alizeh.awan6@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alizeh-awan-8b7b96235
