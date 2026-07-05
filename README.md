@@ -9,6 +9,7 @@
 - Data Structures & OOP
 
 ## Projects
+- Full-stack school management system (MERN)
 - Alphabet Catcher Game (Assembly)
 - Solitaire Game (C++)
 - Pharmacy Management System (React)
